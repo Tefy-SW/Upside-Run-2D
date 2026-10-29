@@ -1,0 +1,92 @@
+[
+  {
+    "animation": "Idle",
+    "frames": 4,
+    "source_sha256": "e669102c0f0f6a5acf36aa93f819b2f0fc107517790395c055969ca5a1eb1c96",
+    "source_size": [
+      2172,
+      724
+    ],
+    "scale_uniform": 0.25,
+    "cell": [
+      256,
+      256
+    ],
+    "baseline_y": 242
+  },
+  {
+    "animation": "Walk",
+    "frames": 6,
+    "source_sha256": "e540472f251bf8192fa103e2129448329c6c57064bfcfa745f24c2607ebaa2fe",
+    "source_size": [
+      2172,
+      724
+    ],
+    "scale_uniform": 0.28,
+    "cell": [
+      256,
+      256
+    ],
+    "baseline_y": 242
+  },
+  {
+    "animation": "Jump",
+    "frames": 3,
+    "source_sha256": "166fcc99a83f5d57455f80e4d66f16ea459b5f139cf22ab7958a48e2434efe97",
+    "source_size": [
+      2172,
+      724
+    ],
+    "scale_uniform": 0.25,
+    "cell": [
+      256,
+      256
+    ],
+    "baseline_y": 242
+  },
+  {
+    "animation": "Slide",
+    "frames": 3,
+    "source_sha256": "33679b4a7b6ded230a68caf950b05025a5ef240a83363773385cdd336374bde8",
+    "source_size": [
+      2172,
+      724
+    ],
+    "scale_uniform": 0.25,
+    "cell": [
+      256,
+      256
+    ],
+    "baseline_y": 242
+  },
+  {
+    "animation": "Hurt",
+    "frames": 3,
+    "source_sha256": "bee5e867934ddb05221412a144cbdf37cce19f7eafbb3cdf898994e0bc51abe5",
+    "source_size": [
+      2172,
+      724
+    ],
+    "scale_uniform": 0.25,
+    "cell": [
+      256,
+      256
+    ],
+    "baseline_y": 242
+  },
+  {
+    "animation": "Death",
+    "frames": 3,
+    "source_sha256": "aa6385a2f45df30628e711828b1af51f7354a423da8749c9c316b2f858e056ea",
+    "source_size": [
+      2172,
+      724
+    ],
+    "scale_uniform": 0.25,
+    "cell": [
+      256,
+      256
+    ],
+    "baseline_y": 242
+  }
+]
